@@ -1,0 +1,27 @@
+[
+    
+    {
+        "nome":"GTA V",
+         "desenvolvedor":"Rockstar",
+         "classificacao_indicativa":"18",
+         "ano_de_lancamento":2013
+    },
+    {
+        "nome":"Minecraft ",
+         "desenvolvedor":"Mojang",
+         "classificacao_indicativa":"L",
+         "ano_de_lancamento":2009
+    },
+    {
+        "nome":"Fifa 2023",
+         "desenvolvedor":"EA sports",
+         "classificacao_indicativa":"L",
+         "ano_de_lancamento":2022
+    },
+    {
+        "nome":"Fortnite",
+         "desenvolvedor":"Epic Games",
+         "classificacao_indicativa":"12",
+         "ano_de_lancamento":2017
+    }
+]

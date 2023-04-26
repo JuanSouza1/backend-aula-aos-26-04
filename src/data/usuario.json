@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Paulo",
+        "email": "Paulinho@gmail.com",
+        "telefone":"19 9243293402",
+        "endereco":"rua paulo freita"
+    },
+    {
+        "nome": "Giovanna",
+        "email": "Giovanna@gmail.com",
+        "telefone":"11 145423433",
+        "endereco":"rua guido segalho 931"
+    },
+    {
+        "nome": "Roberto",
+        "email": "Roberto@gmail.com",
+        "telefone":"19 92435623402",
+        "endereco":"Rua barão de cascalho"
+    },
+    {
+        "nome": "Guilherme",
+        "email": "Guilherme@gmail.com",
+        "telefone":"19 92433696402",
+        "endereco":"Joao papa XVII"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "nome":"Velozes e furiosos 10",
+        "ano_lançamento": 2023,
+        "descricao":"Dom Toretto e sua família devem lidar com o adversário mais letal que já enfrentaram. Alimentada pela vingança, uma ameaça terrível emerge das sombras do passado para destruir o mundo de Dom e todos que ele ama.",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "nome":"Super Mario Bross",
+        "ano_lançamento":2023,
+        "descricao": "Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado pelo rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares.",
+        "classificacao_indicativa": "10"
+    },
+    {
+        "nome":"Avatar: O Caminho da Água",
+        "ano_lançamento":2022,
+        "descricao": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
+        "classificacao_indicativa": "12s"
+        
+    },
+    {
+        "nome":"Panico VI",
+        "ano_lançamento":2023,
+        "descricao": "Sam, Tara, Chad e Mindy, os quatro sobreviventes do massacre realizado pelo Ghostface, decidem deixar Woodsboro para trás em busca de um novo começo em uma cidade diferente. Mas não demora muito para eles se tornarem alvo de um novo serial killer mascarado.",
+        "classificacao_indicativa": "18"
+    }
+]
